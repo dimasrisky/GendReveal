@@ -12,7 +12,6 @@ const Results = () => {
       .then(res => res.json())
       .then(data => setDataGender(data))
   }, [])
-  console.log(dataGender)
 
   return (
     <>
