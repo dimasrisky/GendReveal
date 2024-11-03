@@ -30,7 +30,7 @@
   <a href="#credits">Credits</a>
 </p>
 
-![screenshot](https://github.com/user-attachments/assets/547ce2e2-f50d-4fce-9a72-6267c66655aa)
+![screenshot](https://github.com/user-attachments/assets/9def2c37-760b-430a-b273-283064eaaa52)
 
 ## About
 Welcome to GendReval, a simple web application designed to predict gender based on a name. Built with a clean UI, this tool leverages the power of the Genderize.io API to provide accurate gender predictions.
